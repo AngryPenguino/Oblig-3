@@ -1,2 +1,3 @@
-https://angrypenguino.github.io/Oblig-3/index.html
+https://angrypenguino.github.io/Oblig-3/
+
 
